@@ -17,6 +17,7 @@
 		AB0EABEB29B0AA1C0052EA6F /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB0EABEA29B0AA1C0052EA6F /* SearchViewController.swift */; };
 		AB0EABED29B0AA3E0052EA6F /* DownloadsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB0EABEC29B0AA3E0052EA6F /* DownloadsViewController.swift */; };
 		AB0EABF429B0E60F0052EA6F /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB0EABF329B0E60F0052EA6F /* CollectionViewTableViewCell.swift */; };
+		AB0EABF829B0ED270052EA6F /* .gitadd.strings in Resources */ = {isa = PBXBuildFile; fileRef = AB0EABF729B0ED270052EA6F /* .gitadd.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		AB0EABEA29B0AA1C0052EA6F /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		AB0EABEC29B0AA3E0052EA6F /* DownloadsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsViewController.swift; sourceTree = "<group>"; };
 		AB0EABF329B0E60F0052EA6F /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
+		AB0EABF729B0ED270052EA6F /* .gitadd.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = .gitadd.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 		AB0EABEF29B0E4570052EA6F /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				AB0EABF729B0ED270052EA6F /* .gitadd.strings */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AB0EABDE29B09AD40052EA6F /* LaunchScreen.storyboard in Resources */,
+				AB0EABF829B0ED270052EA6F /* .gitadd.strings in Resources */,
 				AB0EABDB29B09AD40052EA6F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
