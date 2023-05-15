@@ -19,6 +19,7 @@
 		AB0EABF429B0E60F0052EA6F /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB0EABF329B0E60F0052EA6F /* CollectionViewTableViewCell.swift */; };
 		AB0EABF829B0ED270052EA6F /* .gitadd.strings in Resources */ = {isa = PBXBuildFile; fileRef = AB0EABF729B0ED270052EA6F /* .gitadd.strings */; };
 		AB0EABFA29B1E6450052EA6F /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB0EABF929B1E6450052EA6F /* HeroHeaderUIView.swift */; };
+		ABAA819E2A125282000A41B9 /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABAA819D2A125282000A41B9 /* APICaller.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		AB0EABF329B0E60F0052EA6F /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
 		AB0EABF729B0ED270052EA6F /* .gitadd.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = .gitadd.strings; sourceTree = "<group>"; };
 		AB0EABF929B1E6450052EA6F /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
+		ABAA819D2A125282000A41B9 /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 		AB0EABF229B0E53C0052EA6F /* Managers */ = {
 			isa = PBXGroup;
 			children = (
+				ABAA819D2A125282000A41B9 /* APICaller.swift */,
 			);
 			path = Managers;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 				AB0EABEB29B0AA1C0052EA6F /* SearchViewController.swift in Sources */,
 				AB0EABD629B09AD10052EA6F /* MainTabBarViewController.swift in Sources */,
 				AB0EABF429B0E60F0052EA6F /* CollectionViewTableViewCell.swift in Sources */,
+				ABAA819E2A125282000A41B9 /* APICaller.swift in Sources */,
 				AB0EABFA29B1E6450052EA6F /* HeroHeaderUIView.swift in Sources */,
 				AB0EABED29B0AA3E0052EA6F /* DownloadsViewController.swift in Sources */,
 				AB0EABD229B09AD10052EA6F /* AppDelegate.swift in Sources */,
