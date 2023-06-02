@@ -19,6 +19,7 @@
 		AB0EABF429B0E60F0052EA6F /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB0EABF329B0E60F0052EA6F /* CollectionViewTableViewCell.swift */; };
 		AB0EABF829B0ED270052EA6F /* .gitadd.strings in Resources */ = {isa = PBXBuildFile; fileRef = AB0EABF729B0ED270052EA6F /* .gitadd.strings */; };
 		AB0EABFA29B1E6450052EA6F /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB0EABF929B1E6450052EA6F /* HeroHeaderUIView.swift */; };
+		AB462E632A29003D001A4CC2 /* denemeee.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB462E622A29003D001A4CC2 /* denemeee.swift */; };
 		ABAA819E2A125282000A41B9 /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABAA819D2A125282000A41B9 /* APICaller.swift */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +38,7 @@
 		AB0EABF329B0E60F0052EA6F /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
 		AB0EABF729B0ED270052EA6F /* .gitadd.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = .gitadd.strings; sourceTree = "<group>"; };
 		AB0EABF929B1E6450052EA6F /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
+		AB462E622A29003D001A4CC2 /* denemeee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = denemeee.swift; sourceTree = "<group>"; };
 		ABAA819D2A125282000A41B9 /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -93,6 +95,7 @@
 				AB0EABE829B0A9E00052EA6F /* UpcomingViewController.swift */,
 				AB0EABEA29B0AA1C0052EA6F /* SearchViewController.swift */,
 				AB0EABEC29B0AA3E0052EA6F /* DownloadsViewController.swift */,
+				AB462E622A29003D001A4CC2 /* denemeee.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -216,6 +219,7 @@
 				AB0EABD229B09AD10052EA6F /* AppDelegate.swift in Sources */,
 				AB0EABD429B09AD10052EA6F /* SceneDelegate.swift in Sources */,
 				AB0EABE929B0A9E00052EA6F /* UpcomingViewController.swift in Sources */,
+				AB462E632A29003D001A4CC2 /* denemeee.swift in Sources */,
 				AB0EABE729B0A99B0052EA6F /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
